@@ -18,7 +18,7 @@
 
 
 📫 How to reach me:
-[![Email](https://img.shields.io/badge/My%20-Email-green)](ValentinGeorgiev1996@gmail.com)
+Email - ValentinGeorgiev1996@gmail.com
 
 
 
