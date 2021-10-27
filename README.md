@@ -12,7 +12,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-georgiev-256297197)
 
 
-👩‍💻 I'm currently working on my personal portfolio
+👩‍💻 I'm currently working on my Personal Portfolio and a React.js project for a Hotel/Restaurant reservation.
 
 🧠 I'm currently learning Next.js, Three.js, Redux.js, QRcode.js;
 
