@@ -1,7 +1,7 @@
 
 # V1rtuoso
 ## 🚀 About Me
- I'm a Self-taught front-end developer currently working as a freelancer.
+ I'm a Self-taught front-end developer currently working at Up2Technology.
 
 
 # Hi, I'm Valentin! 👋
