@@ -14,7 +14,7 @@
 
 👩‍💻 I'm currently working on a mobile app made with React-Native.
 
-🧠 I'm currently learning TypeScript, Next.js, Three.js, Redux.js, Recoil.js, QRcode.js;
+🧠 I'm currently learning TypeScript, Next.js, Three.js, Redux, Recoil, QRcode.js;
 
 
 📫 How to reach me:
@@ -28,4 +28,4 @@ Email - ValentinGeorgiev1996@gmail.com
  I am a certified chef with almost ten years of experience. I'm an illusionist with over fifty gags. And yes, I will show you a magic trick 🐰
 
 ## 🛠 Skills
-Javascript, TypeScript, HTML, CSS, Node.js, React ⚛️ , React-Native, Recoil.js,  Next.js, Electron.js, Three,js, React-Three Fiber, QRcode.js, Bootstrap, Materialize CSS, Styled-Components;
+Javascript, TypeScript, HTML, CSS, Node.js, React ⚛️ , React-Native, Recoil.js,  Next.js, Electron.js, Three,js, React-Three Fiber, QRcode.js, Bootstrap, Materialize CSS, Styled-Components, Tailwind CSS;
