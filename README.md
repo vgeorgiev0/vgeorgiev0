@@ -25,7 +25,7 @@ Email - ValentinGeorgiev1996@gmail.com
 
 ⚡️ Fun fact...
 
- I am a certified chef with almost ten years of experience. I'm an illusionist with over fifty gags. And yes, I will show you a magic trick 🐰
+ I am a certified chef with more than six years of professional experience. I'm an illusionist with over fifty gags. And yes, I will show you a magic trick 🐰
 
 ## 🛠 Skills
 Javascript, TypeScript, HTML, CSS, Node.js, React ⚛️ , React-Native, Recoil.js,  Next.js, Electron.js, Three,js, React-Three Fiber, QRcode.js, Bootstrap, Materialize CSS, Styled-Components, Tailwind CSS;
