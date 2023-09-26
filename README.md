@@ -12,9 +12,9 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-georgiev-256297197)
 
 
-👩‍💻 I'm currently working on a mobile app made with React-Native.
+👩‍💻 I'm currently working on a mobile app made with React-Native using the new Expo Router.
 
-🧠 I'm currently learning TypeScript, Next.js, Three.js, Redux, Recoil, QRcode.js;
+🧠 I'm currently learning Next 13, Three.js, AWS, Docker, and Kubernetes.
 
 
 📫 How to reach me:
@@ -28,4 +28,4 @@ Email - ValentinGeorgiev1996@gmail.com
  I am a certified chef with more than six years of professional experience. I'm an illusionist with over fifty gags. And yes, I will show you a magic trick 🐰
 
 ## 🛠 Skills
-Javascript, TypeScript, HTML, CSS, Node.js, React ⚛️ , React-Native, Recoil.js,  Next.js, Electron.js, Three,js, React-Three Fiber, QRcode.js, Bootstrap, Materialize CSS, Styled-Components, Tailwind CSS;
+Javascript, TypeScript, HTML, CSS, Node.js, React, React-Native, Expo, Recoil.js,  Next.js, Electron.js, Three.js, React Three Fiber, Bootstrap, Materialize CSS, Styled-Components, Tailwind CSS, AWS, Firebase, CI/CD ;
