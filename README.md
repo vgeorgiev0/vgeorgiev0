@@ -14,7 +14,7 @@
 
 👩‍💻 I'm currently working on a mobile app made with React-Native using the new Expo Router.
 
-🧠 I'm currently learning Next 13, Three.js, AWS, Docker, and Kubernetes.
+🧠 I'm currently learning Next 13, Three.js, AWS, Prisma, Docker, and Kubernetes.
 
 
 📫 How to reach me:
